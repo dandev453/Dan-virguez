@@ -1,6 +1,6 @@
-# Dan. virguez
+
 # Web developer. 
-## front end / back end
+front end / back end
 
 ## [![Twitter: dkinslert](https://img.shields.io/twitter/follow/dkinslert?style=social)](https://twitter.com/dkinslert)
 
