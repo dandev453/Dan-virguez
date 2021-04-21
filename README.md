@@ -1,6 +1,6 @@
 
-# 💪🏼  📄 Soft. Developer. 
-front end / back end
+# 💪🏼  📄 Soft. Developer. full stack
+
 
 ## [![Twitter: dkinslert](https://img.shields.io/twitter/follow/dkinslert?style=social)](https://twitter.com/dkinslert)
 
