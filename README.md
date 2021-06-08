@@ -9,5 +9,5 @@
 ## [![Linkedin: daniel-virguez](https://img.shields.io/twitter/follow/dkinslert?style=social)](https://twitter.com/dkinslert)
 
 
-## https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+##[![[Linkedin: daniel-virguez] ( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://twitter.com/dkinslert)
 
