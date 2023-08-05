@@ -12,5 +12,4 @@ experiencia en gestión de proyectos y relaciones con los clientes.
 
 Habilidades: HTML / CSS / Javascript
 
-|proyect | description | proyect |
-| Proyect 1 | Description 1 | other |
+
